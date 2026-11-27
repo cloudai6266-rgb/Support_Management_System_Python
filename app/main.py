@@ -38,7 +38,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://localhost:5173",
-        "https://support-management-system-new-ui.onrender.com"
+        "https://support-management-system-python-ui.onrender.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],
